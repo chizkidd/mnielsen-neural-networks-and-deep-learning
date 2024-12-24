@@ -22,12 +22,12 @@ Still Ongoing...
 
 ## References
 - [Online Book](http://neuralnetworksanddeeplearning.com/index.html)
-- [Textbook PDF]([https://github.com/karpathy/micrograd](https://github.com/antonvladyka/neuralnetworksanddeeplearning.com.pdf/blob/master/book.pdf))
+- [Textbook PDF](https://github.com/antonvladyka/neuralnetworksanddeeplearning.com.pdf/blob/master/book.pdf)
 
   
 ## Acknowledgments
 
-Thank you Michael Nielsen for creating and sharing the **"Neural Networks and Deep Learning"** onine book. Your dedication and expertise has made this resource possible. Find more of Andrej's work on his [website](https://michaelnielsen.org/).
+Thank you Michael Nielsen for creating and sharing the **"Neural Networks and Deep Learning"** onine book. Your dedication and expertise has made this resource possible. Find more of Michael's work on his [website](https://michaelnielsen.org/).
 
 ## License
 
