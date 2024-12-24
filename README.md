@@ -1,8 +1,8 @@
-#Micheal Nielsen's Neural Networks and Deep Learning Online Book
+Micheal Nielsen's Neural Networks and Deep Learning Online Book
 -------
 
 
-- Notebooks for Pythonic Code Implementation of Each Chapter  
+- Notebooks for Pythonic Code Implementation of Each Chapter.  
 - The online book can be found [here](http://neuralnetworksanddeeplearning.com/index.html).
 
 
