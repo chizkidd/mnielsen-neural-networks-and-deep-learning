@@ -8,13 +8,13 @@ Micheal Nielsen's Neural Networks and Deep Learning Online Book
 
 | Chapters | Topics | Notebooks 
 | --- | --- | ---
-| 1 | [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)) |  [Introduction](001_mnist_nn_intro.ipynb)
+| 1 | [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html) |  [Introduction](001_mnist_nn_intro.ipynb)
 | 2 | [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html) | ---
 | 3 | [Improving the way neural networks learn](http://neuralnetworksanddeeplearning.com/chap3.html) |  [Optimization & Regularization](003_mnist_optimization_regularization.ipynb)
 | 4 | [A visual proof that neural nets can compute any function](http://neuralnetworksanddeeplearning.com/chap4.html) | ---
 | 5 | [Why are deep neural networks hard to train?](http://neuralnetworksanddeeplearning.com/chap5.html) | [Unstable Gradients](005_nn_unstable_gradients.ipynb)
 | 6 | [Deep learning](http://neuralnetworksanddeeplearning.com/chap6.html) | ---
-[ Appendix | [Is there a simple algorithm for intelligence?](http://neuralnetworksanddeeplearning.com/sai.html) | ---
+| Appendix | [Is there a simple algorithm for intelligence?](http://neuralnetworksanddeeplearning.com/sai.html) | ---
 
 
 Still Ongoing... 
