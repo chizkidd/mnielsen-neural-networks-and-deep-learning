@@ -1,4 +1,4 @@
-Micheal Nielsen's Neural Networks and Deep Learning Online Book
+Michael Nielsen's Neural Networks and Deep Learning Online Book
 -------
 
 
