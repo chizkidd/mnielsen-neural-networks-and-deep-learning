@@ -1,4 +1,7 @@
-Michael Nielsen's Neural Networks and Deep Learning Online Book
+[![Notebooks Deployment Status](https://github.com/chizkidd/mnielsen-neural-networks-and-deep-learning/actions/workflows/deploy-notebooks.yml/badge.svg)](https://github.com/chizkidd/mnielsen-neural-networks-and-deep-learning/actions/workflows/deploy-notebooks.yml)
+[![View Notebooks](https://img.shields.io/badge/View-Live%20Notebooks-blue?logo=github)](https://chizkidd.github.io/mnielsen-neural-networks-and-deep-learning/)
+
+# Michael Nielsen's Neural Networks and Deep Learning Online Book
 -------
 
 
